@@ -1,0 +1,12 @@
+{
+  "name": "devquiz-app",
+  "version": "1.0.0",
+  "description": "A developer quiz app for CS students",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
