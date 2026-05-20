@@ -10,7 +10,7 @@ Built with **Node.js + Express**. No database required.
 
 ## Features
 
-- 30 MCQs across 7 topics: DSA, OOP, SQL, OS, Networks, DevOps, Web
+- 100 MCQs across 7 topics: DSA, OOP, SQL, OS, Networks, DevOps, Web
 - 10 random questions per session
 - Instant answer feedback
 - Score result with performance rating
